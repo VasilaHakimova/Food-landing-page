@@ -15,9 +15,18 @@ html {
 /* CONTAINER */
 .container {
   width: 100%;
-  max-width: 1240px;
+  max-width: 140px;
   padding-left: 20px;
   padding-right: 20px;
   margin-left: auto;
   margin-right: auto;
 }
+
+
+
+
+
+
+/* font-family: 'Open Sans', sans-serif; */
+/* font-family: 'Roboto', sans-serif; */
+/* font-family: 'Work Sans', sans-serif; */
